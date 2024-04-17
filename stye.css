@@ -1,0 +1,17 @@
+body {
+  font-family: "Sora", sans-serif;
+}
+
+.bg-gambar {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(img/perpus.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-gambar1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(img/perpus.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
